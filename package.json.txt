@@ -1,0 +1,9 @@
+{
+  "name": "agriminds-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agriminds smart farming dashboard and local API",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

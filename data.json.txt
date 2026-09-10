@@ -1,0 +1,8 @@
+{
+  "farm": { "name": "Green Valley Farm", "manager": "Rugved Bankar", "areaAcres": 18.5, "crop": "Tomatoes" },
+  "sensors": { "soilMoisture": 43, "nitrogen": 82, "phosphorus": 56, "potassium": 64, "temperature": 28, "humidity": 64, "waterLevel": 68, "updatedAt": "2026-09-10T10:42:00+05:30" },
+  "pump": { "running": true, "zone": "Zone 1 · Tomato field", "minutesRemaining": 18, "waterUsedToday": 1240, "nextSchedule": "Tomorrow, 5:30 AM" },
+  "alerts": [
+    { "id": "heat-wave", "type": "heat", "severity": "medium", "title": "Heat-wave risk this week", "message": "High temperatures are expected Thursday–Saturday. Consider scheduling irrigation in the early morning." }
+  ]
+}
